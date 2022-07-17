@@ -1,0 +1,6 @@
+volume
+tests/__pycache__/
+tests/.pytest_cache/
+*.tfstate
+*.tfstate.backup
+.terraform
